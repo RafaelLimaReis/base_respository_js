@@ -1,0 +1,11 @@
+{
+  "name": "package_name",
+  "version": "1.0.0",
+  "description": "description project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rafael Lima <rafaellimareis01@gmail.com>",
+  "license": "MIT"
+}
